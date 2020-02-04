@@ -1,4 +1,11 @@
 
+V2:
+	Authenticate in Spotify's public API and fetch user data
+	
+
+
+
+
 
 	Ver graficamente as músicas que escutei desde que tenho o Spotify, agrupadas por Gênero, Artista e Ano de Lançamento.
 	Ver qual gênero eu mais ouço, agrupado por mês (e estação do ano, consequentemente - levar em conta mudança de hemisfério)

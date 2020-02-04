@@ -1,4 +1,5 @@
 import json
+import requests
 
 def format_query(query):
     return query.replace(" ", "%20")
@@ -16,11 +17,11 @@ def get_paths(type):
 def load_data(type):
     #TODO: fix this logic
     if (type == "streaming_history"):
-        data = ""
+        data = []
         for path in get_paths(type):
             with open(path, encoding = "utf8") as settings:
-                data += str(json.load(settings)).strip('[').strip(']')
-        return "[%s]" % data
+                data += json.load(settings)
+        return data
 
     with open(get_paths(type)[0], encoding = "utf8") as settings:
          return json.load(settings)
@@ -28,15 +29,26 @@ def load_data(type):
 def print_json(obj):
     print(json.dumps(obj, sort_keys=True, indent=4))    
 
+def get_node(data, value):
+    for d in data:
+        if d["name"] == value:
+            return d
+    return {}
 
-# def lastfm_get(payload):
-#     # define headers and URL
-#     headers = {'user-agent': USER_AGENT}
-#     url = 'http://ws.audioscrobbler.com/2.0/'
+def get_artistByGenre(name):
+    return lastfm_get({
+        'method': 'artist.getinfo',
+        'artist': format_query(name)
+    })
 
-#     # Add API key and format to the payload
-#     payload['api_key'] = API_KEY
-#     payload['format'] = 'json'
+def lastfm_get(payload):
+    config = load_config()
+    lastfm_gateway = config["gateways"][0]
+    
+    headers = { 'user-agent': config["application"]["user_agent"] }
+    
+    payload['api_key'] = lastfm_gateway["api_key"]
+    payload['format'] = 'json'
 
-#     response = requests.get(url, headers=headers, params=payload)
-#     return response    
+    response = requests.get(lastfm_gateway["url"], headers = headers, params = payload)
+    return response

@@ -1,0 +1,1925 @@
+[
+    {
+        "name": "Ludmilla",
+        "genres": [
+            "funk",
+            "brazil",
+            "brazilian",
+            "pop",
+            "urban"
+        ]
+    },
+    {
+        "name": "Ava Rocha",
+        "genres": [
+            "mpb",
+            "indie",
+            "female vocalists",
+            "brazilian",
+            "samba"
+        ]
+    },
+    {
+        "name": "Linn da Quebrada",
+        "genres": [
+            "rap",
+            "experimental",
+            "funk",
+            "brazilian",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Tropkillaz",
+        "genres": [
+            "trap",
+            "brazilian",
+            "Tropical Bass",
+            "brasil",
+            "Need to scrobble"
+        ]
+    },
+    {
+        "name": "Years & Years",
+        "genres": [
+            "electronic",
+            "indie",
+            "british",
+            "seen live",
+            "electropop"
+        ]
+    },
+    {
+        "name": "Faith No More",
+        "genres": [
+            "alternative rock",
+            "rock",
+            "alternative",
+            "metal",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Stone Temple Pilots",
+        "genres": [
+            "Grunge",
+            "rock",
+            "alternative rock",
+            "alternative",
+            "90s"
+        ]
+    },
+    {
+        "name": "Pearl Jam",
+        "genres": [
+            "Grunge",
+            "rock",
+            "alternative rock",
+            "alternative",
+            "90s"
+        ]
+    },
+    {
+        "name": "Soundgarden",
+        "genres": [
+            "Grunge",
+            "rock",
+            "alternative rock",
+            "alternative",
+            "hard rock"
+        ]
+    },
+    {
+        "name": "Alice In Chains",
+        "genres": [
+            "Grunge",
+            "rock",
+            "alternative rock",
+            "hard rock",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Nirvana",
+        "genres": [
+            "Grunge",
+            "rock",
+            "alternative",
+            "alternative rock",
+            "90s"
+        ]
+    },
+    {
+        "name": "Bush",
+        "genres": [
+            "Grunge",
+            "rock",
+            "alternative rock",
+            "alternative",
+            "90s"
+        ]
+    },
+    {
+        "name": "Dinosaur Jr.",
+        "genres": [
+            "alternative",
+            "indie rock",
+            "seen live",
+            "Grunge",
+            "indie"
+        ]
+    },
+    {
+        "name": "Sonic Youth",
+        "genres": [
+            "alternative",
+            "experimental",
+            "post-punk",
+            "indie",
+            "seen live"
+        ]
+    },
+    {
+        "name": "The Jesus and Mary Chain",
+        "genres": [
+            "shoegaze",
+            "post-punk",
+            "alternative",
+            "indie",
+            "rock"
+        ]
+    },
+    {
+        "name": "Various Artists",
+        "genres": [
+            "electronic",
+            "indie",
+            "mistagged artist",
+            "jazz",
+            "rock"
+        ]
+    },
+    {
+        "name": "Inner Wave",
+        "genres": [
+            "indie",
+            "indie rock",
+            "jazz",
+            "rock",
+            "soul"
+        ]
+    },
+    {
+        "name": "Crumb",
+        "genres": [
+            "indie",
+            "indie rock",
+            "ireland",
+            "rock",
+            "psychedelic"
+        ]
+    },
+    {
+        "name": "Los Hermanos",
+        "genres": [
+            "brazilian",
+            "mpb",
+            "alternative rock",
+            "rock",
+            "indie"
+        ]
+    },
+    {
+        "name": "Glass Animals",
+        "genres": [
+            "electronic",
+            "seen live",
+            "trip-hop",
+            "british",
+            "indie"
+        ]
+    },
+    {
+        "name": "The Marías",
+        "genres": [
+            "indie",
+            "alternative",
+            "indie pop",
+            "chill",
+            "female vocalists"
+        ]
+    },
+    {
+        "name": "Alexandra Savior",
+        "genres": [
+            "indie",
+            "singer-songwriter",
+            "indie pop",
+            "alternative",
+            "psychedelic"
+        ]
+    },
+    {
+        "name": "Ariel Pink",
+        "genres": [
+            "Lo-Fi",
+            "psychedelic",
+            "seen live",
+            "experimental",
+            "indie"
+        ]
+    },
+    {
+        "name": "Mild High Club",
+        "genres": [
+            "psychedelic",
+            "psychedelic pop",
+            "seen live",
+            "jazz",
+            "Lo-Fi"
+        ]
+    },
+    {
+        "name": "The Voidz",
+        "genres": [
+            "Experimental Rock",
+            "indie rock",
+            "Neo-Psychedelia",
+            "synth punk",
+            "hypnagogic pop"
+        ]
+    },
+    {
+        "name": "Unknown Mortal Orchestra",
+        "genres": [
+            "Lo-Fi",
+            "indie rock",
+            "psychedelic",
+            "indie",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Ravyn Lenae",
+        "genres": [
+            "rnb",
+            "Neo-Soul",
+            "chicago",
+            "alternative rnb",
+            "electronic"
+        ]
+    },
+    {
+        "name": "LION BABE",
+        "genres": [
+            "rnb",
+            "soul",
+            "contemporary rnb",
+            "electronic",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Kendrick Lamar",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "seen live",
+            "west coast",
+            "compton"
+        ]
+    },
+    {
+        "name": "SZA",
+        "genres": [
+            "soul",
+            "electronic",
+            "rnb",
+            "alternative rnb",
+            "female vocalists"
+        ]
+    },
+    {
+        "name": "Syd",
+        "genres": [
+            "rnb",
+            "singer-songwriter",
+            "seen live",
+            "soul",
+            "Hip-Hop"
+        ]
+    },
+    {
+        "name": "The Internet",
+        "genres": [
+            "soul",
+            "Hip-Hop",
+            "rnb",
+            "ofwgkta",
+            "indie"
+        ]
+    },
+    {
+        "name": "Fiona Apple",
+        "genres": [
+            "female vocalists",
+            "singer-songwriter",
+            "alternative",
+            "piano",
+            "indie"
+        ]
+    },
+    {
+        "name": "The Garden",
+        "genres": [
+            "post-punk",
+            "seen live",
+            "vada vada",
+            "punk",
+            "drone"
+        ]
+    },
+    {
+        "name": "Tame Impala",
+        "genres": [
+            "Psychedelic Rock",
+            "psychedelic",
+            "indie rock",
+            "seen live",
+            "australian"
+        ]
+    },
+    {
+        "name": "Katy Perry",
+        "genres": [
+            "pop",
+            "female vocalists",
+            "pop rock",
+            "indie",
+            "rock"
+        ]
+    },
+    {
+        "name": "Lady Gaga",
+        "genres": [
+            "pop",
+            "dance",
+            "electronic",
+            "female vocalists",
+            "female vocalist"
+        ]
+    },
+    {
+        "name": "Madonna",
+        "genres": [
+            "pop",
+            "dance",
+            "female vocalists",
+            "80s",
+            "electronic"
+        ]
+    },
+    {
+        "name": "Kylie Minogue",
+        "genres": [
+            "pop",
+            "dance",
+            "female vocalists",
+            "australian",
+            "electronic"
+        ]
+    },
+    {
+        "name": "Garbage",
+        "genres": [
+            "rock",
+            "alternative",
+            "female vocalists",
+            "alternative rock",
+            "indie"
+        ]
+    },
+    {
+        "name": "Metallica",
+        "genres": [
+            "thrash metal",
+            "metal",
+            "heavy metal",
+            "hard rock",
+            "rock"
+        ]
+    },
+    {
+        "name": "Björk",
+        "genres": [
+            "electronic",
+            "alternative",
+            "experimental",
+            "female vocalists",
+            "icelandic"
+        ]
+    },
+    {
+        "name": "Moloko",
+        "genres": [
+            "electronic",
+            "trip-hop",
+            "female vocalists",
+            "dance",
+            "electronica"
+        ]
+    },
+    {
+        "name": "Portishead",
+        "genres": [
+            "trip-hop",
+            "electronic",
+            "female vocalists",
+            "chillout",
+            "trip hop"
+        ]
+    },
+    {
+        "name": "KAYTRANADA",
+        "genres": [
+            "Hip-Hop",
+            "seen live",
+            "electronic",
+            "beats",
+            "experimental"
+        ]
+    },
+    {
+        "name": "Justin Timberlake",
+        "genres": [
+            "pop",
+            "rnb",
+            "dance",
+            "male vocalists",
+            "Hip-Hop"
+        ]
+    },
+    {
+        "name": "King Krule",
+        "genres": [
+            "indie",
+            "experimental",
+            "Lo-Fi",
+            "chillout",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Nightwish",
+        "genres": [
+            "symphonic metal",
+            "Power metal",
+            "Gothic Metal",
+            "metal",
+            "Female fronted metal"
+        ]
+    },
+    {
+        "name": "John Phillips",
+        "genres": [
+            "singer-songwriter",
+            "folk",
+            "country rock",
+            "rock",
+            "70s"
+        ]
+    },
+    {
+        "name": "Echo & the Bunnymen",
+        "genres": [
+            "post-punk",
+            "new wave",
+            "80s",
+            "alternative",
+            "indie"
+        ]
+    },
+    {
+        "name": "The Smiths",
+        "genres": [
+            "indie",
+            "80s",
+            "post-punk",
+            "new wave",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Depeche Mode",
+        "genres": [
+            "electronic",
+            "new wave",
+            "80s",
+            "synthpop",
+            "synth pop"
+        ]
+    },
+    {
+        "name": "Morrissey",
+        "genres": [
+            "indie",
+            "seen live",
+            "alternative",
+            "british",
+            "rock"
+        ]
+    },
+    {
+        "name": "New Order",
+        "genres": [
+            "new wave",
+            "electronic",
+            "post-punk",
+            "80s",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Rhapsody",
+        "genres": [
+            "Power metal",
+            "symphonic metal",
+            "epic metal",
+            "metal",
+            "melodic metal"
+        ]
+    },
+    {
+        "name": "Helloween",
+        "genres": [
+            "Power metal",
+            "heavy metal",
+            "speed metal",
+            "metal",
+            "german"
+        ]
+    },
+    {
+        "name": "Kamelot",
+        "genres": [
+            "Power metal",
+            "symphonic metal",
+            "Progressive metal",
+            "metal",
+            "melodic metal"
+        ]
+    },
+    {
+        "name": "Masterplan",
+        "genres": [
+            "Power metal",
+            "heavy metal",
+            "metal",
+            "melodic metal",
+            "german"
+        ]
+    },
+    {
+        "name": "Rhapsody Of Fire",
+        "genres": [
+            "Power metal",
+            "symphonic metal",
+            "symphonic power metal",
+            "epic metal",
+            "metal"
+        ]
+    },
+    {
+        "name": "Blind Guardian",
+        "genres": [
+            "Power metal",
+            "speed metal",
+            "metal",
+            "heavy metal",
+            "symphonic metal"
+        ]
+    },
+    {
+        "name": "Angra",
+        "genres": [
+            "Power metal",
+            "Progressive metal",
+            "metal",
+            "melodic metal",
+            "heavy metal"
+        ]
+    },
+    {
+        "name": "Sisters of Mercy",
+        "genres": [
+            "Gothic Rock",
+            "Gothic",
+            "Post punk",
+            "80s",
+            "dark"
+        ]
+    },
+    {
+        "name": "Siouxsie and the Banshees",
+        "genres": [
+            "post-punk",
+            "new wave",
+            "80s",
+            "Gothic",
+            "goth"
+        ]
+    },
+    {
+        "name": "The Cure",
+        "genres": [
+            "post-punk",
+            "new wave",
+            "alternative",
+            "80s",
+            "rock"
+        ]
+    },
+    {
+        "name": "The Rasmus",
+        "genres": [
+            "rock",
+            "alternative rock",
+            "finnish",
+            "alternative",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Placebo",
+        "genres": [
+            "alternative rock",
+            "alternative",
+            "rock",
+            "seen live",
+            "indie"
+        ]
+    },
+    {
+        "name": "Caetano Veloso",
+        "genres": [
+            "mpb",
+            "brazilian",
+            "Bossa Nova",
+            "tropicalia",
+            "brasil"
+        ]
+    },
+    {
+        "name": "Novos Baianos",
+        "genres": [
+            "mpb",
+            "tropicalia",
+            "samba",
+            "brazilian",
+            "brasil"
+        ]
+    },
+    {
+        "name": "Elis Regina",
+        "genres": [
+            "mpb",
+            "Bossa Nova",
+            "brazilian",
+            "female vocalists",
+            "brasil"
+        ]
+    },
+    {
+        "name": "Lenine",
+        "genres": [
+            "mpb",
+            "brasil",
+            "brazilian",
+            "lenine",
+            "brazil"
+        ]
+    },
+    {
+        "name": "Chico Buarque",
+        "genres": [
+            "mpb",
+            "Bossa Nova",
+            "brazilian",
+            "samba",
+            "brasil"
+        ]
+    },
+    {
+        "name": "Stevie Wonder",
+        "genres": [
+            "soul",
+            "funk",
+            "motown",
+            "pop",
+            "rnb"
+        ]
+    },
+    {
+        "name": "Abstract Orchestra",
+        "genres": [
+            "jazz",
+            "contemporary jazz",
+            "mf doom",
+            "Jazz Hop",
+            "to listen to"
+        ]
+    },
+    {
+        "name": "Radio Times - Classical TV Hits"
+    },
+    {
+        "name": "Sergei Prokofiev",
+        "genres": [
+            "Classical",
+            "russian",
+            "contemporary classical",
+            "composer",
+            "composers"
+        ]
+    },
+    {
+        "name": "Modest Mussorgsky",
+        "genres": [
+            "Classical",
+            "russian",
+            "orchestral",
+            "composers",
+            "romantic"
+        ]
+    },
+    {
+        "name": "Franz Liszt",
+        "genres": [
+            "Classical",
+            "piano",
+            "romantic",
+            "hungarian",
+            "composers"
+        ]
+    },
+    {
+        "name": "Maurice Ravel",
+        "genres": [
+            "Classical",
+            "Impressionist",
+            "french",
+            "composer",
+            "instrumental"
+        ]
+    },
+    {
+        "name": "Antonín Dvořák",
+        "genres": [
+            "Classical",
+            "romantic",
+            "Czech",
+            "composers",
+            "composer"
+        ]
+    },
+    {
+        "name": "Britney Spears",
+        "genres": [
+            "pop",
+            "dance",
+            "female vocalists",
+            "Britney Spears",
+            "legend"
+        ]
+    },
+    {
+        "name": "Beyoncé",
+        "genres": [
+            "rnb",
+            "pop",
+            "female vocalists",
+            "soul",
+            "Hip-Hop"
+        ]
+    },
+    {
+        "name": "Secos & Molhados",
+        "genres": [
+            "mpb",
+            "psychedelic",
+            "brazilian",
+            "brasil",
+            "rock"
+        ]
+    },
+    {
+        "name": "Beth Carvalho",
+        "genres": [
+            "samba",
+            "mpb",
+            "brasil",
+            "brazilian",
+            "brazil"
+        ]
+    },
+    {
+        "name": "Jorge Ben Jor",
+        "genres": [
+            "mpb",
+            "samba",
+            "brasil",
+            "samba rock",
+            "brazilian"
+        ]
+    },
+    {
+        "name": "Os Mutantes",
+        "genres": [
+            "psychedelic",
+            "tropicalia",
+            "brazilian",
+            "rock",
+            "experimental"
+        ]
+    },
+    {
+        "name": "Massive Attack",
+        "genres": [
+            "trip-hop",
+            "electronic",
+            "chillout",
+            "downtempo",
+            "electronica"
+        ]
+    },
+    {
+        "name": "Lana Del Rey",
+        "genres": [
+            "female vocalists",
+            "indie",
+            "indie pop",
+            "pop",
+            "alternative"
+        ]
+    },
+    {
+        "name": "SiR",
+        "genres": [
+            "rnb",
+            "soul",
+            "seen live",
+            "australian",
+            "slowcore"
+        ]
+    },
+    {
+        "name": "Godsmack",
+        "genres": [
+            "hard rock",
+            "metal",
+            "Nu Metal",
+            "rock",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Disturbed",
+        "genres": [
+            "metal",
+            "Nu Metal",
+            "hard rock",
+            "rock",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Audioslave",
+        "genres": [
+            "rock",
+            "alternative rock",
+            "hard rock",
+            "alternative",
+            "Grunge"
+        ]
+    },
+    {
+        "name": "Pabllo Vittar",
+        "genres": [
+            "bomba",
+            "gralha",
+            "yuke",
+            "aracy",
+            "desafinacao"
+        ]
+    },
+    {
+        "name": "Anitta",
+        "genres": [
+            "pop",
+            "brazilian",
+            "funk",
+            "female vocalists",
+            "dance"
+        ]
+    },
+    {
+        "name": "Major Lazer",
+        "genres": [
+            "seen live",
+            "dancehall",
+            "electronic",
+            "reggae",
+            "dub"
+        ]
+    },
+    {
+        "name": "J Balvin",
+        "genres": [
+            "mierda",
+            "Brutal Death Metal",
+            "shit",
+            "black metal",
+            "basura"
+        ]
+    },
+    {
+        "name": "Luísa Sonza",
+        "genres": [
+            "pop",
+            "dance",
+            "brazil",
+            "brazillian",
+            "brasileira"
+        ]
+    },
+    {
+        "name": "Nego do Borel",
+        "genres": [
+            "funk",
+            "brasil",
+            "brazilian",
+            "nu jazz",
+            "pop"
+        ]
+    },
+    {
+        "name": "Pharrell Williams",
+        "genres": [
+            "Hip-Hop",
+            "rnb",
+            "rap",
+            "hip hop",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Miguel",
+        "genres": [
+            "rnb",
+            "soul",
+            "r&b",
+            "Hip-Hop",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Anderson .Paak",
+        "genres": [
+            "seen live",
+            "Hip-Hop",
+            "soul",
+            "rnb",
+            "Neo-Soul"
+        ]
+    },
+    {
+        "name": "Nas",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "east coast rap",
+            "new york"
+        ]
+    },
+    {
+        "name": "BJ The Chicago Kid",
+        "genres": [
+            "soul",
+            "rnb",
+            "Neo-Soul",
+            "Hip-Hop",
+            "chicago"
+        ]
+    },
+    {
+        "name": "GoldLink",
+        "genres": [
+            "electronic",
+            "rap",
+            "Hip-Hop",
+            "hip hop",
+            "future bounce"
+        ]
+    },
+    {
+        "name": "Ari Lennox",
+        "genres": [
+            "rnb",
+            "soul",
+            "seen live",
+            "dreamville",
+            "electronic"
+        ]
+    },
+    {
+        "name": "Mick Jenkins",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "underground hip-hop",
+            "hip hop",
+            "chicago"
+        ]
+    },
+    {
+        "name": "will.i.am",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "rnb",
+            "funk",
+            "hip hop"
+        ]
+    },
+    {
+        "name": "Tyler, The Creator",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "ofwgkta",
+            "underground hip-hop",
+            "swag"
+        ]
+    },
+    {
+        "name": "Kid Cudi",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "alternative rap",
+            "hip hop",
+            "House"
+        ]
+    },
+    {
+        "name": "Eminem",
+        "genres": [
+            "rap",
+            "Hip-Hop",
+            "Eminem",
+            "hip hop",
+            "pop"
+        ]
+    },
+    {
+        "name": "Jay Rock",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "Gangsta Rap",
+            "west coast",
+            "West Coast Rap"
+        ]
+    },
+    {
+        "name": "Vince Staples",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "seen live",
+            "underground hip-hop",
+            "hip hop"
+        ]
+    },
+    {
+        "name": "JID",
+        "genres": [
+            "Hip-Hop",
+            "hip hop",
+            "seen live",
+            "rap",
+            "Jid"
+        ]
+    },
+    {
+        "name": "Stalley",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "Ohio",
+            "underground hip-hop"
+        ]
+    },
+    {
+        "name": "ScHoolboy Q",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "underground hip-hop",
+            "West Coast Rap",
+            "compton"
+        ]
+    },
+    {
+        "name": "OSHUN",
+        "genres": [
+            "soul",
+            "Garage Rock",
+            "Neo-Soul",
+            "Hip-Hop",
+            "hip hop"
+        ]
+    },
+    {
+        "name": "The Weeknd",
+        "genres": [
+            "rnb",
+            "electronic",
+            "dubstep",
+            "Canadian",
+            "prog-rnb"
+        ]
+    },
+    {
+        "name": "Bruno Mars",
+        "genres": [
+            "pop",
+            "rnb",
+            "male vocalists",
+            "r&b",
+            "slow jams"
+        ]
+    },
+    {
+        "name": "Daft Punk",
+        "genres": [
+            "electronic",
+            "dance",
+            "House",
+            "electronica",
+            "techno"
+        ]
+    },
+    {
+        "name": "Dream Theater",
+        "genres": [
+            "Progressive metal",
+            "Progressive rock",
+            "metal",
+            "Progressive",
+            "rock"
+        ]
+    },
+    {
+        "name": "Lucy Dacus",
+        "genres": [
+            "indie",
+            "seen live",
+            "singer-songwriter",
+            "indie rock",
+            "female vocalists"
+        ]
+    },
+    {
+        "name": "Millencolin",
+        "genres": [
+            "punk rock",
+            "seen live",
+            "punk",
+            "skate punk",
+            "swedish"
+        ]
+    },
+    {
+        "name": "Mary J. Blige",
+        "genres": [
+            "rnb",
+            "soul",
+            "female vocalists",
+            "Hip-Hop",
+            "urban"
+        ]
+    },
+    {
+        "name": "BROCKHAMPTON",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "seen live",
+            "boyband"
+        ]
+    },
+    {
+        "name": "Gal Costa",
+        "genres": [
+            "Bossa Nova",
+            "brazilian",
+            "mpb",
+            "tropicalia",
+            "female vocalists"
+        ]
+    },
+    {
+        "name": "Foxy Brown",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "female vocalists",
+            "hip hop",
+            "rnb"
+        ]
+    },
+    {
+        "name": "Missy Elliott",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "rnb",
+            "female vocalists"
+        ]
+    },
+    {
+        "name": "Ms. Lauryn Hill",
+        "genres": [
+            "soul",
+            "rnb",
+            "Hip-Hop",
+            "hip hop",
+            "rap"
+        ]
+    },
+    {
+        "name": "Aimee Mann",
+        "genres": [
+            "female vocalists",
+            "singer-songwriter",
+            "indie",
+            "alternative",
+            "rock"
+        ]
+    },
+    {
+        "name": "Alanis Morissette",
+        "genres": [
+            "female vocalists",
+            "rock",
+            "alternative",
+            "singer-songwriter",
+            "pop"
+        ]
+    },
+    {
+        "name": "10,000 Maniacs",
+        "genres": [
+            "female vocalists",
+            "alternative",
+            "rock",
+            "pop",
+            "80s"
+        ]
+    },
+    {
+        "name": "Edguy",
+        "genres": [
+            "Power metal",
+            "heavy metal",
+            "metal",
+            "german",
+            "melodic metal"
+        ]
+    },
+    {
+        "name": "Shaman",
+        "genres": [
+            "folk metal",
+            "Power metal",
+            "metal",
+            "finnish",
+            "heavy metal"
+        ]
+    },
+    {
+        "name": "Sonata Arctica",
+        "genres": [
+            "Power metal",
+            "metal",
+            "melodic metal",
+            "finnish",
+            "symphonic metal"
+        ]
+    },
+    {
+        "name": "Avantasia",
+        "genres": [
+            "Power metal",
+            "symphonic metal",
+            "metal opera",
+            "metal",
+            "melodic metal"
+        ]
+    },
+    {
+        "name": "Red Hot Chili Peppers",
+        "genres": [
+            "rock",
+            "alternative rock",
+            "alternative",
+            "Funk Rock",
+            "funk"
+        ]
+    },
+    {
+        "name": "The Offspring",
+        "genres": [
+            "punk rock",
+            "punk",
+            "rock",
+            "alternative",
+            "alternative rock"
+        ]
+    },
+    {
+        "name": "Bad Religion",
+        "genres": [
+            "punk",
+            "punk rock",
+            "seen live",
+            "political",
+            "rock"
+        ]
+    },
+    {
+        "name": "Rancid",
+        "genres": [
+            "punk",
+            "punk rock",
+            "ska punk",
+            "ska",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Green Day",
+        "genres": [
+            "punk rock",
+            "rock",
+            "punk",
+            "alternative",
+            "pop punk"
+        ]
+    },
+    {
+        "name": "Sugababes",
+        "genres": [
+            "pop",
+            "female vocalists",
+            "british",
+            "dance",
+            "rnb"
+        ]
+    },
+    {
+        "name": "Bloodbound",
+        "genres": [
+            "Power metal",
+            "heavy metal",
+            "melodic metal",
+            "metal",
+            "swedish"
+        ]
+    },
+    {
+        "name": "Dream Evil",
+        "genres": [
+            "Power metal",
+            "heavy metal",
+            "metal",
+            "melodic metal",
+            "Progressive metal"
+        ]
+    },
+    {
+        "name": "Powerwolf",
+        "genres": [
+            "Power metal",
+            "heavy metal",
+            "german",
+            "metal",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Iron Maiden",
+        "genres": [
+            "heavy metal",
+            "metal",
+            "NWOBHM",
+            "seen live",
+            "hard rock"
+        ]
+    },
+    {
+        "name": "Stratovarius",
+        "genres": [
+            "Power metal",
+            "metal",
+            "melodic metal",
+            "heavy metal",
+            "finnish"
+        ]
+    },
+    {
+        "name": "Grave Digger",
+        "genres": [
+            "heavy metal",
+            "Power metal",
+            "speed metal",
+            "metal",
+            "german"
+        ]
+    },
+    {
+        "name": "No Doubt",
+        "genres": [
+            "rock",
+            "pop",
+            "ska",
+            "alternative",
+            "female vocalists"
+        ]
+    },
+    {
+        "name": "Hole",
+        "genres": [
+            "Grunge",
+            "female vocalists",
+            "rock",
+            "alternative",
+            "alternative rock"
+        ]
+    },
+    {
+        "name": "Cat Power",
+        "genres": [
+            "indie",
+            "female vocalists",
+            "singer-songwriter",
+            "folk",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Royal Blood",
+        "genres": [
+            "rock",
+            "alternative rock",
+            "Garage Rock",
+            "seen live",
+            "blues rock"
+        ]
+    },
+    {
+        "name": "Queens of the Stone Age",
+        "genres": [
+            "Stoner Rock",
+            "rock",
+            "alternative rock",
+            "seen live",
+            "hard rock"
+        ]
+    },
+    {
+        "name": "Raimundos",
+        "genres": [
+            "hardcore",
+            "rock",
+            "punk rock",
+            "brazilian",
+            "brasil"
+        ]
+    },
+    {
+        "name": "Matanza",
+        "genres": [
+            "countrycore",
+            "hardcore",
+            "brazilian",
+            "rock",
+            "country"
+        ]
+    },
+    {
+        "name": "Vivendo do Ócio",
+        "genres": [
+            "indie",
+            "brazilian",
+            "indie rock",
+            "rock",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Criolo",
+        "genres": [
+            "rap",
+            "brazilian",
+            "samba",
+            "Hip-Hop",
+            "seen live"
+        ]
+    },
+    {
+        "name": "Coldplay",
+        "genres": [
+            "rock",
+            "alternative",
+            "britpop",
+            "alternative rock",
+            "indie"
+        ]
+    },
+    {
+        "name": "Interpol",
+        "genres": [
+            "indie",
+            "indie rock",
+            "post-punk",
+            "seen live",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Arctic Monkeys",
+        "genres": [
+            "indie rock",
+            "indie",
+            "british",
+            "rock",
+            "alternative"
+        ]
+    },
+    {
+        "name": "The Strokes",
+        "genres": [
+            "indie rock",
+            "rock",
+            "indie",
+            "alternative",
+            "alternative rock"
+        ]
+    },
+    {
+        "name": "The Dandy Warhols",
+        "genres": [
+            "indie",
+            "rock",
+            "alternative",
+            "indie rock",
+            "alternative rock"
+        ]
+    },
+    {
+        "name": "Keane",
+        "genres": [
+            "britpop",
+            "indie",
+            "alternative",
+            "british",
+            "rock"
+        ]
+    },
+    {
+        "name": "Travis",
+        "genres": [
+            "britpop",
+            "indie",
+            "rock",
+            "alternative",
+            "british"
+        ]
+    },
+    {
+        "name": "Black Grape",
+        "genres": [
+            "madchester",
+            "indie",
+            "britpop",
+            "Manchester",
+            "alternative"
+        ]
+    },
+    {
+        "name": "Rainbow",
+        "genres": [
+            "hard rock",
+            "classic rock",
+            "heavy metal",
+            "rock",
+            "metal"
+        ]
+    },
+    {
+        "name": "Deep Purple",
+        "genres": [
+            "hard rock",
+            "classic rock",
+            "rock",
+            "Progressive rock",
+            "heavy metal"
+        ]
+    },
+    {
+        "name": "Black Sabbath",
+        "genres": [
+            "heavy metal",
+            "hard rock",
+            "classic rock",
+            "metal",
+            "rock"
+        ]
+    },
+    {
+        "name": "Uriah Heep",
+        "genres": [
+            "classic rock",
+            "hard rock",
+            "Progressive rock",
+            "rock",
+            "70s"
+        ]
+    },
+    {
+        "name": "Wishbone Ash",
+        "genres": [
+            "Progressive rock",
+            "classic rock",
+            "hard rock",
+            "rock",
+            "blues rock"
+        ]
+    },
+    {
+        "name": "Led Zeppelin",
+        "genres": [
+            "classic rock",
+            "rock",
+            "hard rock",
+            "70s",
+            "Progressive rock"
+        ]
+    },
+    {
+        "name": "UFO",
+        "genres": [
+            "hard rock",
+            "classic rock",
+            "rock",
+            "heavy metal",
+            "Progressive rock"
+        ]
+    },
+    {
+        "name": "Queen",
+        "genres": [
+            "classic rock",
+            "rock",
+            "80s",
+            "hard rock",
+            "glam rock"
+        ]
+    },
+    {
+        "name": "Sabotage",
+        "genres": [
+            "rap",
+            "Rap Nacional",
+            "brazilian",
+            "hip hop",
+            "heavy metal"
+        ]
+    },
+    {
+        "name": "Emicida",
+        "genres": [
+            "rap",
+            "hip hop",
+            "brazilian",
+            "underground hip-hop",
+            "freestyle"
+        ]
+    },
+    {
+        "name": "Mos Def",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "underground hip-hop",
+            "alternative rap"
+        ]
+    },
+    {
+        "name": "A Tribe Called Quest",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "Jazz Hop",
+            "funk"
+        ]
+    },
+    {
+        "name": "Wu-Tang Clan",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "wu-tang",
+            "new york"
+        ]
+    },
+    {
+        "name": "Mobb Deep",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "Gangsta Rap",
+            "hip hop",
+            "new york"
+        ]
+    },
+    {
+        "name": "JAY-Z",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "east coast rap",
+            "jay-z"
+        ]
+    },
+    {
+        "name": "The Notorious B.I.G.",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "Gangsta Rap",
+            "east coast rap",
+            "hip hop"
+        ]
+    },
+    {
+        "name": "Ghostface Killah",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "wu-tang",
+            "east coast rap",
+            "hip hop"
+        ]
+    },
+    {
+        "name": "Digable Planets",
+        "genres": [
+            "Hip-Hop",
+            "Jazz Hop",
+            "hip hop",
+            "rap",
+            "jazz"
+        ]
+    },
+    {
+        "name": "Big K.R.I.T.",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "Southern Hip Hop",
+            "hip hop",
+            "mississippi"
+        ]
+    },
+    {
+        "name": "Ty Dolla $ign",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "rnb",
+            "cloud rnb",
+            "Bitch House"
+        ]
+    },
+    {
+        "name": "Blackstreet",
+        "genres": [
+            "rnb",
+            "Hip-Hop",
+            "90s",
+            "soul",
+            "rap"
+        ]
+    },
+    {
+        "name": "Lupe Fiasco",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "underground hip-hop",
+            "chicago"
+        ]
+    },
+    {
+        "name": "Lil' Kim",
+        "genres": [
+            "Hip-Hop",
+            "rap",
+            "hip hop",
+            "female vocalists",
+            "rnb"
+        ]
+    },
+    {
+        "name": "Sabaton",
+        "genres": [
+            "Power metal",
+            "heavy metal",
+            "seen live",
+            "metal",
+            "swedish"
+        ]
+    },
+    {
+        "name": "Pantera",
+        "genres": [
+            "thrash metal",
+            "metal",
+            "groove metal",
+            "heavy metal",
+            "Power metal"
+        ]
+    },
+    {
+        "name": "Amy Winehouse",
+        "genres": [
+            "soul",
+            "jazz",
+            "female vocalists",
+            "british",
+            "singer-songwriter"
+        ]
+    },
+    {
+        "name": "ANAVITÓRIA",
+        "genres": [
+            "folk",
+            "mpb",
+            "brazilian",
+            "pop",
+            "duo"
+        ]
+    },
+    {
+        "name": "Jason Isbell and the 400 Unit",
+        "genres": [
+            "Alt-country",
+            "americana",
+            "Southern Rock",
+            "seen live",
+            "rock"
+        ]
+    },
+    {
+        "name": "Mallu Magalhães",
+        "genres": [
+            "folk",
+            "brazilian",
+            "indie",
+            "female vocalists",
+            "singer-songwriter"
+        ]
+    },
+    {
+        "name": "Allman Brown",
+        "genres": [
+            "indie",
+            "rock",
+            "singer-songwriter",
+            "folk-rock",
+            "england"
+        ]
+    }
+]
