@@ -1,3 +1,7 @@
+Download Spotify´s data and add 
+
+V1:
+	Load 
 
 V2:
 	Authenticate in Spotify's public API and fetch user data

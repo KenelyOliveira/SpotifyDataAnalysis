@@ -1,15 +1,10 @@
 import functions as f
-import base64
 import requests
 import json
 import pandas
 from pymongo import MongoClient
 from bson.code import Code
 from pprint import pprint
-
-# Get authorization to use their api
-# Get artist info by name
-# ###
 
 client = MongoClient('mongodb://127.0.0.1:27017')
 db = client.SpotifyData
@@ -19,17 +14,16 @@ def persist_access_token(access_token):
     db.config.insert_one({'access_token':access_token,'expired':0})
 
 def get_access_token():
-    c = db.config.find_one({'expired':0})
-    if (c != None):
-        return c.get('access_token')
-    return ''
+    config = db.config.find_one({'expired':0})
+    if (config != None):
+        return config.get('access_token')
+    return None
 
 def get_new_token():
     config = f.load_config()['gateway']
-    headers = {'Authorization':'Basic %s' % (base64.encodebytes(('%s:%s' % (config['client_id'],config['client_secret'])).encode('utf-8')).decode().strip()).replace('\n', '')}
+    headers = {'Authorization':'Basic %s' % f.get_authorization(config['client_id'],config['client_secret'])}
     payload = {'grant_type':'client_credentials'}
     response = requests.post(config['auth_url'], headers = headers, data = payload)
-    print(json.loads(response.text)['access_token'])
     return json.loads(response.text)['access_token']
 
 def get_artist(name):
@@ -54,8 +48,6 @@ if (get_newData):
             if (node == {}):
                 name = artist['track']['artistName']
                 info = get_artist(name)
-                print(name)
-                print(info)
                 if (info != {}):
                     artists.append({'id':info['artists']['items'][0]['id'],'name':name,'genres':info['artists']['items'][0]['genres']})
 
