@@ -1,5 +1,6 @@
 import json
 import requests
+import base64
 
 def format_query(query):
     return query.replace(" ", "%20")
@@ -52,3 +53,6 @@ def lastfm_get(payload):
 
     response = requests.get(lastfm_gateway["url"], headers = headers, params = payload)
     return response
+
+def get_authorization(client_id, client_secret):
+    return   (base64.encodebytes(('%s:%s' % (client_id,client_secret)).encode('utf-8')).decode().strip()).replace('\n', '')
