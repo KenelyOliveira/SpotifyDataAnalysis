@@ -17,5 +17,8 @@ def get_access_token():
 def add_artists(artists):
     db.artists.insert_many(artists)
 
+def get_artist(name):
+    return db.artists.find_one({'name':name},{'_id': 0,'name': 1,'genres': 1})
+
 def add_history(history):
     db.streaming_history.insert_many(history)

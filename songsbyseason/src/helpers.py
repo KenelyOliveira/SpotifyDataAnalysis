@@ -6,7 +6,7 @@ def format_query(query):
     return query.replace(' ', '%20')
 
 def load_config():
-    with open('../config/appsettings.json', encoding = 'utf8') as settings:
+    with open('./config/appsettings.json', encoding = 'utf8') as settings:
         return json.load(settings)
 
 def get_paths(type):

@@ -1,6 +1,5 @@
 import requests
-import songsbyseason.helpers as helpers
-print(helpers.format_query('Olá mundo'))
+import helpers
 
 def get_artistByName(payload):
     gateway = helpers.load_config()['gateways'][0]
