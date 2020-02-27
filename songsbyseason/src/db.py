@@ -18,7 +18,17 @@ def add_artists(artists):
     db.artists.insert_many(artists)
 
 def get_artist(name):
-    return db.artists.find_one({'name':name},{'_id': 0,'name': 1,'genres': 1})
+    return db.artists.find_one({'name':name},{'_id': 0,'name': 1,'genres':1})
 
 def add_history(history):
     db.streaming_history.insert_many(history)
+
+def get_genres():
+    return db.artists.distinct('genres')
+
+def get_byGenre(genre):
+    return list(db.streaming_history.find({'genres':{'$all':[genre]}}, {'_id': 0,'artist': 1,'genres':1}))
+
+def oi():
+    db.streaming_history.distinct('date')
+    db.streaming_history.find({'genre':{'$exists':False}}).sort({'date':1})
