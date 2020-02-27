@@ -29,3 +29,12 @@ if (get_newData):
                 streaming_history.append({'date':entry[0][0],'artist':entry[0][1],'genres':genres['genres'],'minutes':((entry[1] / 100) / 60)})
 
     db.add_history(streaming_history)
+
+    top_artists = []
+
+i = 1
+for genre in db.get_genres():
+    if (i == 1):
+        ret = db.get_byGenre(genre)
+        print(ret)
+        i = 2
