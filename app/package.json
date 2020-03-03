@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --proxy-config proxy.config.js",
+    "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
@@ -21,6 +21,7 @@
     "@angular/router": "~9.0.2",
     "chart.js": "^2.9.3",
     "json-server": "^0.16.1",
+    "less": "^3.11.1",
     "ng2-charts": "^2.3.0",
     "rxjs": "~6.5.4",
     "rxjs-compat": "^6.5.4",
