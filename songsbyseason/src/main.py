@@ -31,10 +31,12 @@ if (get_newData):
     db.add_history(streaming_history)
 
     top_artists = []
+    
 
-i = 1
-for genre in db.get_genres():
-    if (i == 1):
-        ret = db.get_byGenre(genre)
-        print(ret)
-        i = 2
+
+# i = 1
+# for genre in db.get_genres():
+#     if (i == 1):
+#         ret = db.get_byGenre(genre)
+#         print(ret)
+#         i = 2
