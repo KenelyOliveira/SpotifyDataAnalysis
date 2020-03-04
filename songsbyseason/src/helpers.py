@@ -25,9 +25,9 @@ def load_data(type):
 def print_json(obj):
     print(json.dumps(obj, sort_keys = True, indent = 4))    
 
-def get_node(data, value):
+def get_node(data, key, value):
     for d in data:
-        if d['name'] == value:
+        if d[key] == value:
             return d
     return None
 

@@ -1,1 +1,22 @@
-<p>dashboard works!</p>
+<div class="container-fluid">
+    <h1 class="font margin">Spotify Data Analysis</h1>
+    <div class="row">
+        <div class="col-2">
+            <nav class="menu font">
+                <ol>
+                    <li class="menu-item">
+                        <a href="#"><h2>{{selectedYear}}</h2></a>
+                        <ol class="sub-menu" *ngFor="let year of years">
+                            <li class="menu-item"><a href="#0"><h2>{{year}}</h2></a></li>
+                        </ol>
+                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+        GRAPH
+    </div>
+</div>
+
+

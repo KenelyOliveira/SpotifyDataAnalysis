@@ -4,6 +4,12 @@ from bson.code import Code
 client = MongoClient('mongodb://127.0.0.1:27017')
 db = client.SpotifyData
 
+def clear():
+    db.artists.drop()
+    db.streaming_history.drop()
+    db.top_artists.drop()
+    db.top_genres.drop()
+
 def persist_access_token(access_token):
     db.config.update_many({'expired':0}, {'$set':{'expired':1}})
     db.config.insert_one({'access_token':access_token,'expired':0})
@@ -29,6 +35,8 @@ def get_genres():
 def get_byGenre(genre):
     return list(db.streaming_history.find({'genres':{'$all':[genre]}}, {'_id': 0,'artist': 1,'genres':1}))
 
-def oi():
-    db.streaming_history.distinct('date')
-    db.streaming_history.find({'genre':{'$exists':False}}).sort({'date':1})
+def add_top_artists(top_artists):
+    db.top_artists.insert_many(top_artists)
+
+def add_top_genres(top_genres):
+    db.top_genres.insert_many(top_genres)
