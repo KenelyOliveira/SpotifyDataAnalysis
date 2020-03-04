@@ -15,7 +15,11 @@
         </div>
     </div>
     <div class="row">
-        GRAPH
+        <ul>
+            <li *ngFor="let artist of artists">
+                <span>{{artist.artist}} - {{artist.minutes}}</span>
+            </li>
+        </ul>
     </div>
 </div>
 

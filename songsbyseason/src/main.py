@@ -1,7 +1,9 @@
 import pandas
 import helpers, spotify, db
+import os
+import pathlib
 
-get_newData = True
+get_newData = False
 
 def get_artists(artists, songs):
     for song in songs:
@@ -32,7 +34,7 @@ if (get_newData):
     print('Getting streaming history...')
     for history in helpers.load_data('streaming_history'):
         frame = pandas.DataFrame(history)
-        frame['endTime'] = pandas.to_datetime(frame['endTime']).dt.strftime('%W/%Y') #week and year
+        frame['endTime'] = pandas.to_datetime(frame['endTime']).dt.strftime('%W-%Y') #week and year
         
         for entry in (frame.groupby([frame['endTime'], frame['artistName']])['msPlayed'].sum()).items():
             genres = db.get_artist(entry[0][1])
@@ -58,3 +60,8 @@ if (get_newData):
     db.add_top_genres(top_genres)
 
     print('Done getting streaming history!')
+
+script_location = pathlib.Path(__file__).absolute().parent
+
+os.system('python %s' % (script_location/'api.py'))
+print('Listening to API on port 4193...')

@@ -38,5 +38,11 @@ def get_byGenre(genre):
 def add_top_artists(top_artists):
     db.top_artists.insert_many(top_artists)
 
+def get_top_artists(date):
+    return list(db.top_artists.find({'date':date},{'_id': 0}).sort('minutes',-1))
+
 def add_top_genres(top_genres):
     db.top_genres.insert_many(top_genres)
+
+def get_top_genres(date):
+    return list(db.top_genres.find({'date':date},{'_id': 0}).sort('count',-1))
